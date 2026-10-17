@@ -21,23 +21,24 @@ Frontend Developer with **2 years of professional experience** building responsi
 
 ---
 
+
 ### 📫 Contact Info
 
 <p align="left">
-  <a href="mailto:fatmaelzhraaibrahim3@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="30" alt="Gmail" />
+  <a href="mailto:fatmaelzhraaibrahim3@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/fatma-ibrahim-43937437b/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/fatma-ibrahim-43937437b/">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/fatmasgit" title="GitHub">
-    <img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub" />
+  <a href="https://github.com/fatmasgit">
+    <img src="https://img.icons8.com/ios-glyphs/48/181717/github.png" width="30" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://crm-pro-pa87.vercel.app/" title="Whispyr AI Project">
-    <img src="https://cdn.simpleicons.org/vercel/000000" width="30" alt="Whispyr AI Deployment" />
+  <a href="https://crm-pro-pa87.vercel.app/">
+    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" width="30" alt="Portfolio" />
   </a>
 </p>
 
