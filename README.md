@@ -22,24 +22,23 @@ Frontend Developer with **2 years of professional experience** building responsi
 ---
 
 
+
 ### 📫 Contact Info
 
 <p align="left">
   <a href="mailto:fatmaelzhraaibrahim3@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Gmail" />
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="30" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/fatma-ibrahim-43937437b/">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/fatmasgit">
-    <img src="https://img.icons8.com/ios-glyphs/48/181717/github.png" width="30" alt="GitHub" />
+  <a href="https://wa.me/201157192149">
+    <img src="https://img.icons8.com/color/48/whatsapp.png" width="30" alt="WhatsApp" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://crm-pro-pa87.vercel.app/">
-    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" width="30" alt="Portfolio" />
-  </a>
+</p>
+
 </p>
 
 📍 Cairo, Egypt
