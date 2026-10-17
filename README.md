@@ -4,6 +4,8 @@
 
 Frontend Developer with **2 years of experience** building web applications, dashboards, and ERP platforms. Contributed to Twist Sports, a production sports platform owned by Etisalat Egypt.
 
+---
+
 ### 🚀 Featured Projects
 
 - [**Twist Sports**](https://twistsports.com/) — Sports platform owned by Etisalat Egypt, featuring football tournaments, match coverage, and subscription-based content.
@@ -12,8 +14,9 @@ Frontend Developer with **2 years of experience** building web applications, das
 - [**Real Estate CRM**](https://crm-pro-pa87.vercel.app/) — Full-stack CRM for managing leads, tracking activities, automating follow-ups, and AI-powered lead analysis.
 - [**HireMe**](https://hire-me-1pmx.vercel.app/) — Multi-role hiring platform for employers and candidates.
 
+---
+
 ### 📫 Connect With Me
 
-- **Email:** [fatmaelzhraaibrahim3@gmail.com](mailto:fatmaelzhraaibrahim3@gmail.com)
-- **LinkedIn:** [Fatma Ibrahim](https://linkedin.com/in/fatma-ibrahim-43937437b)
-- **GitHub:** [@fatmasgit](https://github.com/fatmasgit)
+<a href="mailto:fatmaelzhraaibrahim3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/fatma-ibrahim-43937437b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
